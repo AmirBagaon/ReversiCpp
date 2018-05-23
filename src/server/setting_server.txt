@@ -1,0 +1,6 @@
+8576
+# in order to overcome about message to server
+# we symbolize with fictive Coordinate (-1,-1) to inform to server the game is over
+# and fictive Coordinate (-2,-2) to inform to server that has no move to the next player.
+# (-1,-1) - END GAME.
+# (-2,-2) - NOMOVES.
